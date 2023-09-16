@@ -13,7 +13,7 @@ private var imageList = ["arrow.swap",
                          "forward",
                          "repeat",
                         ]
-// Image(systemName: "play")
+
 
 struct musicaSel: View {
     @State var auxiliar: lista
