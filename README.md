@@ -30,7 +30,7 @@ O software consiste na tela das opções de música, cada música foi colocada n
 
   - `Funcionalidade 2` : Abre e fecha a <code>sheet view</code>.
 
-  - `Funcionalidade 3` : Transfere os dados do <code>main</code> para a <code>sheet view</code>.
+  - `Funcionalidade 3` : Transfere os dados do <code>main</code> para a página da música selecionada.
 
 <h2>✔️ Tecnologias usadas</h2>
 <p>
