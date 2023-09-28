@@ -6,6 +6,7 @@
 </p>
 
 <h2>📓 Descrição do projeto</h2>
+Este projeto foi desenvolvido no hackatruck (projeto de capacitação profissional de estudantes de Instituições de Ensino Superior de Tecnologia da Informação, em desenvolvimento iOS para aplicativos móveis com aplicação em Internet das Coisas (IoT) )<br><br>
 O programa simula o aplicativo Spotify. Para fazer o programa foi utilizado <code>array</code>, <code>foreach</code> e <code>navigation link</code><br>
 O software consiste na tela das opções de música, cada música foi colocada na tela com o uso de foreach, para percorrer o array que contém as músicas, e os dados de cada música é passada para a <code>sheet view</code> no momento em que a música recebe um click.
 
