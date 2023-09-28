@@ -8,7 +8,21 @@
 <h2>📓 Descrição do projeto</h2>
 Este projeto foi desenvolvido no hackatruck (projeto de capacitação profissional de estudantes de Instituições de Ensino Superior de Tecnologia da Informação, em desenvolvimento iOS para aplicativos móveis com aplicação em Internet das Coisas (IoT) )<br><br>
 O programa simula o aplicativo Spotify. Para fazer o programa foi utilizado <code>array</code>, <code>foreach</code> e <code>navigation link</code><br>
-O software consiste na tela das opções de música, cada música foi colocada na tela com o uso de foreach, para percorrer o array que contém as músicas, e os dados de cada música é passada para a <code>sheet view</code> no momento em que a música recebe um click.
+O software consiste na tela das opções de música, cada música foi colocada na tela com o uso de foreach, para percorrer o array que contém as músicas, e os dados de cada música é passada para a <code>sheet view</code> no momento em que a música recebe um click.<br><br>
+
+<div align="center">
+  <img src="https://github.com/Samuel-045/Spotify-swift/assets/95144250/0acae944-d76e-40cd-ba55-d837c7c8238c"/>
+
+  >Parte superior da home, com as primeiras opções de música e, a capa da playlist.<br><br>
+
+  <img src="https://github.com/Samuel-045/Spotify-swift/assets/95144250/92e583d2-4679-4e02-8706-414bc8f08a3a"/>
+
+  >Parte inferior da home, com as últimas opções de música e, uma <code>scrool view</code> na horizontal com as músicas sugeridas ao usuário.<br><br>
+
+  <img src="https://github.com/Samuel-045/Spotify-swift/assets/95144250/596f7d11-a1ff-4a6a-9c9a-15d6cfa17d0c">
+
+  >Página com a música selecionada, feita com <code>navigation link</code>
+</div>
 
 <h2>⚒️ Funcionalidades</h2>
 
